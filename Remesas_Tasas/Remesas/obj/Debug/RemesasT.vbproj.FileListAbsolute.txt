@@ -1,0 +1,16 @@
+C:\Users\cesarmarcano\Documents\Visual Studio 2008\Projects\RemesasT\Remesas\bin\Debug\RemesasT.exe.manifest
+C:\Users\cesarmarcano\Documents\Visual Studio 2008\Projects\RemesasT\Remesas\bin\Debug\RemesasT.application
+C:\Users\cesarmarcano\Documents\Visual Studio 2008\Projects\RemesasT\Remesas\bin\Debug\RemesasT.exe
+C:\Users\cesarmarcano\Documents\Visual Studio 2008\Projects\RemesasT\Remesas\bin\Debug\RemesasT.pdb
+C:\Users\cesarmarcano\Documents\Visual Studio 2008\Projects\RemesasT\Remesas\bin\Debug\RemesasT.xml
+C:\Users\cesarmarcano\Documents\Visual Studio 2008\Projects\RemesasT\Remesas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cesarmarcano\Documents\Visual Studio 2008\Projects\RemesasT\Remesas\obj\Debug\RemesasT.AboutBox1.resources
+C:\Users\cesarmarcano\Documents\Visual Studio 2008\Projects\RemesasT\Remesas\obj\Debug\RemesasT.Form1.resources
+C:\Users\cesarmarcano\Documents\Visual Studio 2008\Projects\RemesasT\Remesas\obj\Debug\RemesasT.Resources.resources
+C:\Users\cesarmarcano\Documents\Visual Studio 2008\Projects\RemesasT\Remesas\obj\Debug\RemesasT.vbproj.GenerateResource.Cache
+C:\Users\cesarmarcano\Documents\Visual Studio 2008\Projects\RemesasT\Remesas\obj\Debug\RemesasT.TrustInfo.xml
+C:\Users\cesarmarcano\Documents\Visual Studio 2008\Projects\RemesasT\Remesas\obj\Debug\RemesasT.exe.manifest
+C:\Users\cesarmarcano\Documents\Visual Studio 2008\Projects\RemesasT\Remesas\obj\Debug\RemesasT.application
+C:\Users\cesarmarcano\Documents\Visual Studio 2008\Projects\RemesasT\Remesas\obj\Debug\RemesasT.exe
+C:\Users\cesarmarcano\Documents\Visual Studio 2008\Projects\RemesasT\Remesas\obj\Debug\RemesasT.xml
+C:\Users\cesarmarcano\Documents\Visual Studio 2008\Projects\RemesasT\Remesas\obj\Debug\RemesasT.pdb
