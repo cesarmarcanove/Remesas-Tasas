@@ -20,3 +20,7 @@ Nueva versión mejorada con cambios desde la anterior
 * **Botón Limpiar:** Limpiar (o vaciar) sus calculos ya resueltos; para permitir nuevos cálculos. Excepto para numeros previsualizados.
 * **Botón Acerca de:** Muestra la version del programa y demas cosas.
 * **Boton Salir del App:** Salga de la aplicacion.
+
+# Licencia
+
+**Licencia:** CC0 1.0 Universal (Dominio Publico)
