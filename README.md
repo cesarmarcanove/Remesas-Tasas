@@ -24,3 +24,4 @@ Nueva versión mejorada con cambios desde la anterior
 # Licencia
 
 **Licencia:** CC0 1.0 Universal (Dominio Publico)
+Ver Licencia en Español: https://github.com/cesarmarcanove/Remesas-Tasas/blob/main/LICENSE-ES.MD
