@@ -5,7 +5,7 @@ CREATIVE COMMONS PROVEE ESTA INFORMACIÓN “TAL Y COMO ES". CREATIVE COMMONS NO
 QUE SE PROVEEN A CONTINUACIÓN Y SE EXIME DE RESPONSABILIDAD POR DAÑOS RESULTANTES POR EL USO DE ESTE DOCUMENTO O LA INFORMACIÓN O LAS OBRAS QUE SE PROVEEN A 
 CONTINUACIÓN.**
 
-# Declaración de Propósito 
+## Declaración de Propósito 
 
 Las leyes de la mayoría de las jurisdicciones a lo largo del mundo automáticamente confieren derechos de autor y derechos conexos (definidos más abajo) 
 al creador y al/los titular/es subsiguientes (todos y cada uno, un “titular”) de una obra original de autoría y/o una base de datos (cada una, una “Obra”).
@@ -25,10 +25,10 @@ Por estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de con
 * (VI) derechos sobre bases de datos (tales como los que emergen bajo la Directiva 96/9/CE del Parlamento Europeo y del Consejo del 11 de marzo de 1996 sobre la protección legal de las bases de datos, y bajo cualquier implementación nacional de aquellos, incluyendo cualquier enmienda o versión posterior de dicha directiva); y otros derechos similares, equivalentes o correspondientes a lo largo del mundo basados en leyes o tratados aplicables, y cualquier implementación nacional de aquellos.
 
 2. **Renuncia.** En la mayor medida posible de lo permitido por, pero no en contravención a, la ley aplicable, el Afirmante de forma abierta, completa, permanente, irrevocable e incondicional por este medio renuncia, abandona y rinde todos los Derechos de Autor y Derechos Conexos del Afirmante y reclamos asociados y causas de acción, ya sean conocidas ahora o desconocidas (incluyendo reclamos y causas de acción existentes y futuras), sobre la Obra:
-* (i) en todos los territorios del mundo, 
-* (ii) por el tiempo máximo de duración previsto por la ley o tratado aplicable (incluyendo extensiones de tiempo futuras), 
-* (iii) en cualquier medio actual o futuro y para cualquier número de copias 
-* (iv) para cualquier propósito de cualquier naturaleza, incluyendo sin limitación comercial, anuncios y fines promocionales (la “Renuncia”). El Afirmante hace la Renuncia en beneficio de cada miembro del público en general y en detrimento de los herederos y sucesores del Afirmante, con la intención plena de que tal Renuncia no será sujeto de revocación, rescisión, cancelación, terminación o cualquier otra acción legal o similar para interrumpir el plácido disfrute de la Obra por el público tal como se contempla en la expresa Declaración de Propósitos del Afirmante.
+* (I) en todos los territorios del mundo, 
+* (II) por el tiempo máximo de duración previsto por la ley o tratado aplicable (incluyendo extensiones de tiempo futuras), 
+* (III) en cualquier medio actual o futuro y para cualquier número de copias 
+* (IV) para cualquier propósito de cualquier naturaleza, incluyendo sin limitación comercial, anuncios y fines promocionales (la “Renuncia”). El Afirmante hace la Renuncia en beneficio de cada miembro del público en general y en detrimento de los herederos y sucesores del Afirmante, con la intención plena de que tal Renuncia no será sujeto de revocación, rescisión, cancelación, terminación o cualquier otra acción legal o similar para interrumpir el plácido disfrute de la Obra por el público tal como se contempla en la expresa Declaración de Propósitos del Afirmante.
 
 3. **Repliego de la Licencia Pública.** Si cualquier parte de la Renuncia por cualquier razón sea juzgada como legalmente inválida o inefectiva bajo la ley aplicable, entonces la Renuncia deberá ser preservada hasta la máxima medida posible teniendo en cuenta la expresa Declaración de Propósitos del Afirmante. Además, en la medida en que la Renuncia es así juzgada el Afirmante por este medio le otorga a cada persona afectada una licencia sin costo, intransferible, no sublicenciable, no exclusiva, irrevocable e incondicional para ejercer los Derechos de Autor y Derechos Conexos del Afirmante sobre la Obra:
 * (I) en todos los territorios del mundo
