@@ -54,6 +54,8 @@ Si cualquier parte de la Renuncia por cualquier razón sea juzgada como legalmen
 * (III) El Afirmante renuncia a la responsabilidad de los derechos de compensación de otras personas que puedan aplicarse a la Obra o a cualquier uso en esto, incluyendo sin limitación los Derechos de Autor y Derechos Conexos sobre la Obra de cualquier persona. Además, el Afirmante renuncia a la responsabilidad de obtener cualquier consentimiento o permiso necesario, así como cualquier otros derechos requeridos para cualquier uso de la Obra.
 * (IV) El Afirmante entiende y reconoce que Creative Commons no es una parte en este documento y no tiene ningún derecho u obligación con respecto a esta CC0 o al uso de la Obra.
 
-Website original: https://creativecommons.org/publicdomain/zero/1.0/legalcode.es
+#### Referencia:
+
+https://creativecommons.org/publicdomain/zero/1.0/legalcode.es
 
 
